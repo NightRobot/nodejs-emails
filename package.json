@@ -1,0 +1,15 @@
+{
+  "name": "emails",
+  "version": "1.0.0",
+  "description": "Test send emails for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "Natthawut.Si",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.3"
+  }
+}
